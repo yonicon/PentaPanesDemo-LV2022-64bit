@@ -8,4 +8,4 @@ A version compatible with LabVIEW 2023 32bit can be found at https://github.com/
 
   2. Open the top vi "PentaPanesDemo.vi"
 
-  3.View the code/Run it and play around - the splitters are the white narrow lines in between the panes or near the edge of the panel.
+  3. View the code/Run it and play around - the splitters are the white narrow lines in between the panes or near the edge of the panel.
