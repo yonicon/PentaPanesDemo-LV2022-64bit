@@ -2,7 +2,7 @@ This directory is a LabVIEW project containing a demonstration of the PentaPanes
 
 You will need LabVIEW 2022 64bit or compatible to run this code
 
-A version compatible with 2023 32bit can be found at https://github.com/yonicon/PentaPanesDemo-LV2023
+A version compatible with LabVIEW 2023 32bit can be found at https://github.com/yonicon/PentaPanesDemo-LV2023
 
 Open the "PentaPanesDemo.lvproj" in LabVIEW
 
